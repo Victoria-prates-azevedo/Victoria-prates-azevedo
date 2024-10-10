@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil de Victória Prates Azevêdo 😁
 
  <div>
-   <a href="https://github.com/victoria-prates-azevedo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoria-prates-azevedo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoria-prates-azevedo&layout=gotham&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/devemdobro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victoria-prates-azevedo&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoria-prates-azevedo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
