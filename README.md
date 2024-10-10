@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/victoria-prates-azevedo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoria-prates-azevedo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoria-prates-azevedo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoria-prates-azevedo&layout=gotham&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
